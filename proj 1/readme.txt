@@ -2,8 +2,6 @@ On my honor, I have neither given nor received unauthorized aid on this assignme
 
 Fisrt name: Tao
 Last name: Chen
-gatorlink accout: 1881 6215
-e-mail address: chentao1000@ufl.edu 
 
 instruction:
 this code is tested under Ubuntu 12.04
